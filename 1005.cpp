@@ -31,12 +31,10 @@ int main()
 			if (num % 2 == 0) {
 				num /= 2;
 				sign[num] = 1;
-				continue;   //注意continue
 			}
 			else {
 				num = (num * 3 + 1)/2;
 				sign[num] = 1;
-				continue;   //注意continue
 			}
 		}
 	}
