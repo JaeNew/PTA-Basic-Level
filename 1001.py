@@ -10,4 +10,4 @@ def main():
 
     print(i)
 
-main()
+main() 
